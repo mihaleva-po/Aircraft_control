@@ -4,7 +4,6 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.QtGui import QPalette, QBrush, QPixmap
-
 from main import time_session_KA, day, formatted_100
 
 
